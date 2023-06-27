@@ -9,8 +9,8 @@
 sudo -H pip3 install pytest
 ```
 
-- ## 15 Escalera
-    ### Run command
-    ```
-    pytest assignments/00Escalera
-    ```
+- ## Escalera
+### Run command
+```
+pytest assignments/00Escalera
+```
